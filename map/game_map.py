@@ -1,4 +1,4 @@
-from map.tile import NullTile, RoadTile, WallTile, Tile, TileFactory
+from map.tile import Tile, TileFactory
 from map.gridgraph import GridGraph
 import random
 from typing import List

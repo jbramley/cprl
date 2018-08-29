@@ -103,5 +103,8 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+# PyCharm
+.idea/
+
 # My stuff that I don't want committed
 Tutorial/
